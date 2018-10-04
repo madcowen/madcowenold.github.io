@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
-title: Madeline Cowen
+name: Madeline Cowen
 description: this will be a beautiful website soon
+markdown: kramdown
