@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Corbel', 'Corbel', 'Bradley Hand Bold';
+    font-family:'Corbel', 'Corbel', 'Corbel';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,7 +21,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Bradley Hand Bold', 'Corbel', 'Corbel';
+    font-family:'Corbel', 'Corbel', 'Corbel';
 }
 p {
     font-size: 1.5em;
