@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Maddi Cowen
 tagline:          'Ecology, codes, and birds'
-description:      'I'm a PhD student at UCLA studying how behavioral interactions between animal species affects their coexistence. Follow me <a href="https://twitter.com/maddicowen" target="_blank">@maddicowen</a>.'
+description:      "I'm a PhD student at UCLA studying how behavioral interactions between animal species affects their coexistence. Follow me <a href='https://twitter.com/maddicowen' target='_blank'>@maddicowen</a>."
 url:              http://madcowen.github.io
 baseurl:          /
 
